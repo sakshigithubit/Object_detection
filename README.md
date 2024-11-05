@@ -26,11 +26,11 @@ Before you begin, ensure you have the following installed:
    cd object_detection
 
 ## Usage
--Place your test images in the object_detection/test_images directory.
--Run the Jupyter Notebook or Python script provided in this repository to perform object detection on the images
--The results will be displayed inline, showing the detected objects with bounding boxes.
+- Place your test images in the object_detection/test_images directory.
+- Run the Jupyter Notebook or Python script provided in this repository to perform object detection on the images
+- The results will be displayed inline, showing the detected objects with bounding boxes.
 
 ## Acknowledgments
--TensorFlow Team
--The authors of the SSD MobileNet model
--The COCO dataset creators   
+- TensorFlow Team
+- The authors of the SSD MobileNet model
+- The COCO dataset creators   
