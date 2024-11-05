@@ -6,9 +6,8 @@ This project demonstrates how to perform object detection using TensorFlow's SSD
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Information](#model-information)
-- [License](#license)
+- [Usage](#Usage)
+- [Acknowledgments](#Acknowledgments)
 
 ## Prerequisites
 
@@ -25,3 +24,13 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/sakshigithubit/object_detection.git
    cd object_detection
+
+## Usage
+-Place your test images in the object_detection/test_images directory.
+-Run the Jupyter Notebook or Python script provided in this repository to perform object detection on the images
+-The results will be displayed inline, showing the detected objects with bounding boxes.
+
+## Acknowledgments
+-TensorFlow Team
+-The authors of the SSD MobileNet model
+-The COCO dataset creators   
